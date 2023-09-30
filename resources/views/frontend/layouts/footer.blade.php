@@ -47,7 +47,7 @@
             <div class="col-lg-5 col-md-12">
                 <div class="about-content">
                     <h6 class="mb-2">About us</h6>
-                    <p style="line-height: 2;">Global Insights Research has assisted many organizations with finding success with their internet promoting endeavors. We utilize this information and ability to assist our clients with taking their business to a higher level with results-driven showcasing arrangements.</p>
+                    <p style="line-height: 2;">Global Market Research is a market research firm with a focus on delivering unmatched research, analytics, and consulting services to businesses across the globe. We are expert in Market Research. Our dedicated teams are experienced in cost-effective survey design and analysis, online and mobile survey software and hosting, and respondent panels, such as B2B, consumer, healthcare professionals, IT, and teenagers. We have extensive experience in creating and supporting custom panel network development and long-term engagement</p>
                 </div>
                 <div class="social text-left" style="float:left">
                     <ul>

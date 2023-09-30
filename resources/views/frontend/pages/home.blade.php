@@ -1,8 +1,7 @@
 @extends('frontend.layouts.app')
 @section('content')
 
-<!--=================================
-banner -->
+<!--================================= banner =================================-->
 <div id="rev_slider_15_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-alias="seo-2" data-source="gallery" style="margin:0px auto;background-color:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
     <!-- START REVOLUTION SLIDER 5.3.0.2.1 fullwidth mode -->
     <div id="rev_slider_15_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.3.0.2.1">
@@ -50,41 +49,10 @@ banner -->
         <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>
     </div>
 </div>
-<!--=================================
-banner -->
-<!--=================================
-Newsletter -->
-<!-- <section class="newsletter blue-bg page-section-pb">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-8 col-md-12 text-center">
-                <div class="newsletter-info">
-                    <h4 class="text-white mb-3">Subscribe to our Newsletter</h4>
-                    <p class="mb-4 text-white">Global Insights Research has expert groups of Information Researchers, Interpretation Specialists, Examiners and Economic Analysts. Every one of our clients and ventures have a committed group of specialists working, with a key Undertaking Director to manage everyday errands</p>
-                </div>
-                <form class="form-inline d-inline">
-                    <div class="row">
-                        <div class="col-md-8 col-sm-8">
-                            <div class="form-group">
-                                <input type="text" class="form-control" id="inputPassword2" placeholder="Enter your email address...">
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-4 text-center text-md-left">
-                            <a class="button border-white" href="#">Subscribe now</a>
-                        </div>
-                    </div>
-                </form>
-            </div>
-        </div>
-    </div>
-</section> -->
-<!--================================= Newsletter =================================-->
-<!--================================= welcome =================================-->
-
-
-
+<!--================================= banner =================================-->
 
 <!--================================= OUR PROCESS =================================-->
+
 
 <section class="our-process page-section-pt">
     <div class="container">
@@ -92,81 +60,82 @@ Newsletter -->
             <div class="col-lg-12 col-md-12 mb-3">
                 <div class="section-title text-center">
                     <span>Steps for your success</span>
-                    <h3 class="text-center">OUR PROCESS</h3>
+                    <h3 class="text-center mb-3">OUR PROCESS</h3>
+                    <h5 class="text-center">Global insights Research gives lots of info about many different types of businesses. We help them find solutions to make sure their business grows and get better with the help of technology.</h5>
                 </div>
             </div>
         </div>
         <div class="row">
-
-
-            <div class="col-lg-4 col-sm-6 mb-4">
+            <div class="col-lg-6 col-sm-6 mb-4">
                 <div class="our-process-info">
                     <h2 class="text-blue mb-1">01</h2>
                     <h6 class="mb-2">Quantitative Research</h6>
-                    <p>We have some expertise in leading quantitative exploration, giving exact and savvy information to our clients.</p>
+                    <p>We have experience in quantitative research. We give our clients accurate and smart data</p>
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6 mb-4">
+            <div class="col-lg-6 col-sm-6 mb-4">
                 <div class="our-process-info">
                     <h2 class="text-blue mb-1">02</h2>
-                    <h6 class="mb-2">Survey Programming & Hosting</h6>
-                    <p>Our accomplished Overview Developers are accessible to help clients with their mind boggling prerequisites.</p>
+                    <h6 class="mb-2">Business research</h6>
+                    <p>Our team understand of their customers and markets, enabling them to target their efforts for maximum value in business research.</p>
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6 mb-4">
+            <div class="col-lg-6 col-sm-6 mb-4">
                 <div class="our-process-info">
                     <h2 class="text-blue mb-1">03</h2>
-                    <h6 class="mb-2">Panel Services</h6>
-                    <p>We offer admittance to different and connected with respondent gatherings, conveying dependable information for statistical surveying purposes.</p>
+                    <h6 class="mb-2">Data analysis & reporting</h6>
+                    <p>Our team has the skills to work with complicated data using different tools and the best techniques available.</p>
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6 mb-4">
+            <div class="col-lg-6 col-sm-6 mb-4">
                 <div class="our-process-info">
                     <h2 class="text-blue mb-1">04</h2>
-                    <h6 class="mb-2">Healthcare Research</h6>
-                    <p>With north of 40 specific profiles and 75+ afflictions, our Worldwide Medical services Board offers thorough help to our clients.</p>
+                    <h6 class="mb-2">Customer research</h6>
+                    <p>Our customized research solutions are designed to meet the needs of your business, providing valuable data-driven insights and strategic advice.</p>
+
                 </div>
             </div>
 
 
-            <div class="col-lg-4 col-sm-6 mb-4">
+
+            <div class="col-lg-6 col-sm-6 mb-4">
                 <div class="our-process-info">
                     <h2 class="text-blue mb-1">05</h2>
-                    <h6 class="mb-2">Custom Research</h6>
-                    <p>We give customized research benefits that suit your business needs, conveying bits of knowledge and vital proposals.</p>
+
+                    <h6 class="mb-2">Translation services</h6>
+                    <p>We have the proven expertise to design, program, and execute surveys that yield valuable insights. Our robust qualifications and years of experience have enabled us to work with a variety of sectors and industries, and we are well-versed in leading survey programming platforms.</p>
+
+
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6 mb-4">
+            <div class="col-lg-6 col-sm-6 mb-4">
                 <div class="our-process-info">
                     <h2 class="text-blue mb-1">06</h2>
-                    <h6 class="mb-2">Data Collection</h6>
-                    <p>Gathering precise information is fundamental for any exploration. We offer different strategies, including on the web, disconnected, CATI, and portable.</p>
+                    <h6 class="mb-2">Data collection</h6>
+                    <p>Our comprehensive team of experts provide a range of quantitative, qualitative, and even specialized services such as CATI, CAPI, CAWI, F2F, PAPI, and Mystery Shopping. Our in-depth knowledge and expertise ensure an informed decision is taken and highly reliable statistical results are achieved.</p>
+
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6 mb-4">
+            <div class="col-lg-6 col-sm-6 mb-4">
                 <div class="our-process-info">
                     <h2 class="text-blue mb-1">07</h2>
-                    <h6 class="mb-2">Data Analysis & Reporting</h6>
-                    <p>Our Information investigation group has the mastery to deal with complex information utilizing various devices and state of the art methods.</p>
+                    <h6 class="mb-2">Survey programming & hosting</h6>
+                    <p>Our team of professional market research experts possess a wealth of knowledge in survey programming and have worked across a range of sectors and industries. We have a long track record of successful projects, championship of client demands, and ultimate satisfaction in the results achieved. Whatever the research requirements, our team can deliver the most accurate and up-to-date solutions.</p>
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6 mb-4">
+            <div class="col-lg-6 col-sm-6 mb-4">
                 <div class="our-process-info">
                     <h2 class="text-blue mb-1">08</h2>
-                    <h6 class="mb-2">Omnibus Surveys</h6>
-                    <p>Financially savvy answer for organizations to immediately find customer patterns, purchasing ways of behaving, and inclinations.</p>
-                </div>
-            </div>
-            <div class="col-lg-4 col-sm-6 mb-4">
-                <div class="our-process-info">
-                    <h2 class="text-blue mb-1">09</h2>
-                    <h6 class="mb-2">Translation Services</h6>
-                    <p>We can make an interpretation of your ventures into in excess of 30 unique dialects, while offering an unprecedented exhibit of phonetic administrations.</p>
+                    <h6 class="mb-2">Healthcare research</h6>
+                    <p>We offer comprehensive assistance to healthcare professionals to help them achieve their research goals. Our services cover a wide range of topics, from evaluating drug safety and efficacy to measuring the impact of policies. No matter what the research project is, we’ll work closely with clients to provide them with the information they need. With our expertise, they'll have the confidence knowing their research is in the right hands.</p>
                 </div>
             </div>
 
         </div>
     </div>
+    </div>
+    <div class="team-image">
+        <img class="img-fluid mt-3" src="{{asset('assets/images/team/12.png')}}" alt="">
     </div>
 </section>
 
@@ -184,14 +153,11 @@ Newsletter -->
             </div>
             <div class="col-lg-6 col-md-12 p-0">
                 <div class="our-story-content text-left blue-bg">
-                    <h2 class="text-white mb-2">our story</h2>
+                    <h2 class="text-white mb-2">What we do</h2>
                     <span class="mb-2 text-white">As Economic Scientists, we figure out the significance of information security, protection and confidentiality.</span>
-                    <p class="mb-2 text-white">Global Insights Research is a worldwide MR arrangements organization, giving worldwide admittance to connected customers across difficult to-contact crowds, including shoppers, medical care and B2B.</p>
+                    <p class="mb-2 text-white">At Global Insights Research, we help businesses grow. We create reports with the facts about markets, including information about trends, technologies, opportunities, and challenges. Our reports give important insights into what might happen in the future. We do both regular reports and custom research projects for clients around the world. All our work is designed to help our clients make the best decisions that will help their business grow.</p>
 
-                    <p class="mb-2 text-white">We are trusted by clients work in statistical surveying and business knowledge to convey excellence.</p>
 
-                    <p class="mb-2 text-white">We adopt a consultative strategy with our clients, giving arrangements expanding programming, hands on work, facilitating and examination. At present we have representatives which have insight with working with clients across the globe.</p>
-                    <!-- <p class="mb-2 text-white"></p> -->
                 </div>
             </div>
         </div>
