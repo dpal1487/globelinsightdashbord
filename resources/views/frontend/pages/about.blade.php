@@ -1,5 +1,5 @@
 @extends('frontend.layouts.app')
-
+@section('title') {{'About us'}} @endsection
 @section('content')
 <!--================================= intro-title =================================-->
 <section class="intro-title blue-bg" style="background-color: #289dd2;">

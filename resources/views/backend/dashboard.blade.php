@@ -13,7 +13,7 @@ Dashboard
         <div class="card">
           <!-- /.card-header -->
           <div class="form" style="padding: 20px;">
-            <form action="{{asset('/dashboard')}}" method="post">
+            <form action="{{asset('/dashboard')}}" method="get">
               {{@csrf_field()}}
               <div class="row">
                 <div class="form-group col-sm-3">

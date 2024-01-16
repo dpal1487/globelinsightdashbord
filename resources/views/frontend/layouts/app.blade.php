@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <!-- ========== Page Title ========== -->
-    <title>Global Marketing</title>
+    <title>Global Marketing - @yield('title')</title>
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="{{asset('frontend/assets/assets/img/favicon.png')}}" type="image/x-icon">
 
